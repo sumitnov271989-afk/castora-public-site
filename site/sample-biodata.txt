@@ -1,0 +1,10 @@
+Name: Sana Verma
+Age: 28
+Gender: Female
+Height: 170 cm
+Languages: Hindi, English
+Current city: Mumbai
+Acting experience: 5 years in theatre and historical drama
+Skills: Classical dance, Kathak, Singing
+Previous projects: The Window — fictional stage production (2024)
+Profile summary: A fictional theatre performer with classical dance training. This sample biodata is supplied solely for demonstrating local extraction and casting search.
